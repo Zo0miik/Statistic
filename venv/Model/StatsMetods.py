@@ -120,7 +120,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
 
@@ -140,7 +140,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
     def three_int_array(self):
@@ -159,7 +159,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
     def one_float_array(self):
@@ -178,7 +178,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
     def two_float_array(self):
@@ -235,7 +235,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
     def two_double_array(self):
@@ -254,7 +254,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
     def three_double_array(self):
@@ -273,7 +273,7 @@ class WindowApp(QWidget):
         self.lineEdit_3.setText(str(max_elem))
         self.lineEdit_4.setText(str(delta))
         self.lineEdit_5.setText(str(shape))
-        self.lineEdit_6.setText(str(size_array))
+        self.lineEdit_6.setText('')
         self.lineEdit_7.setText(str(type_array))
 
 
